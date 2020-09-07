@@ -1,4 +1,4 @@
-package error_sample
+package utils
 
 import (
 	"errors"
