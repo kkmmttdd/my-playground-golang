@@ -1,4 +1,4 @@
-module github.com/kkmmttdd/go-playground
+module github.com/kkmmttdd/my-playground-golang
 
 go 1.13
 

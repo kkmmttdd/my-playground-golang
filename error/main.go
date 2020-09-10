@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/kkmmttdd/go-playground/error/utils"
+	"github.com/kkmmttdd/my-playground-golang/error/utils"
 )
 func main() {
 	_, err := utils.Render()
